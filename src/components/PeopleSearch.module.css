@@ -1,0 +1,17 @@
+.people_seatch {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.text {
+    display: block;
+}
+
+.peopleName {
+    list-style-type: none;
+}
+
+.peopleName:hover {
+    text-decoration: underline;
+    cursor: pointer; 
+}
